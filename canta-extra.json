@@ -1,0 +1,17 @@
+{
+  "name": "Extra debloat",
+  "description": "Aggressive extras: stock Samsung dialer, contacts and messaging apps, Google Messages, and Knox / device management services. Install replacements first.",
+  "createdDate": 1794268800000,
+  "version": "1.0",
+  "apps": [
+    "com.google.android.apps.messaging",
+    "com.samsung.android.app.contacts",
+    "com.samsung.android.da.daagent",
+    "com.samsung.android.dialer",
+    "com.samsung.android.knox.kpecore",
+    "com.samsung.android.knox.pushmanager",
+    "com.samsung.android.knox.zt.framework",
+    "com.samsung.android.mdm",
+    "com.samsung.android.messaging"
+  ]
+}
